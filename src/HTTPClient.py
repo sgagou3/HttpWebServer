@@ -1,5 +1,3 @@
-__author__ = "730474971"
-
 import os
 import socket
 import sys
