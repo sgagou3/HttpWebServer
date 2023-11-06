@@ -1,5 +1,3 @@
-__author__ = "730474971"
-
 import errno
 import sys
 import os
